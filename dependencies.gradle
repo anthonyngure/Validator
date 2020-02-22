@@ -7,11 +7,11 @@ ext {
 
     /* build plugins versions */
     build = [
-            gradle      : '3.5.3',
-            kotlin      : "1.3.40",
-            dcendents   : "2.1",
-            dokka       : "0.9.17",
-            jacoco      : "0.1.2",
+            gradle   : '3.6.0-rc03',
+            kotlin   : "1.3.40",
+            dcendents: "2.1",
+            dokka    : "0.9.17",
+            jacoco   : "0.1.2",
     ]
 
     buildPlugins = [
